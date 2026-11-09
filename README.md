@@ -32,3 +32,7 @@ The application is built with React as the base library. For visualizations, the
 **Week 2 (Core Visualizations):** Build the interactive world map using GeoJSON and Leaflet. Develop the continental bar charts using Recharts and implement the state logic to toggle between views and continents.
 
 **Week 3 (Interactivity, Styling & Deployment):** Add map popups, hover effects, and a custom color legend. Finalize the CSS styling for a clean, user-friendly interface. Test for bugs and deploy the final application to GitHub.
+
+## Note: 
+Dashboard can be viewed on vercel.com using the url below
+https://malaria-dashboard-eight.vercel.app/
